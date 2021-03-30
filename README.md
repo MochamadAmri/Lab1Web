@@ -44,6 +44,8 @@
 <!-- judul paragraf kedua -->
 <h2>Paragraf pada HTML</h2>
 ```
-![Langkah 3 1](https://user-images.githubusercontent.com/56380838/112936332-d5c78a00-914f-11eb-8849-f5c5db06a971.png)
-![Langkah 3 2](https://user-images.githubusercontent.com/56380838/112936341-d9f3a780-914f-11eb-9957-a2a4c657e2da.png)
+![Langkah 3](https://user-images.githubusercontent.com/56380838/112937451-dc570100-9151-11eb-868c-6a52b876844d.png)
 
+<p> <b> Dan untuk yang di browser nya akan seperti ini </b> </p>
+
+![Langkah 3 1](https://user-images.githubusercontent.com/56380838/112937463-df51f180-9151-11eb-96fd-eaf43aba2c8f.png)
