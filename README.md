@@ -83,3 +83,19 @@
 ```
 ![Langkah 6](https://user-images.githubusercontent.com/56380838/112940334-34dccd00-9157-11eb-9099-76b9e4ff9767.png)
 ![Langkah 6 1](https://user-images.githubusercontent.com/56380838/112940344-373f2700-9157-11eb-919b-c920afefa067.png)
+# Langkah 7
+## Cara menggabungkan halaman kedua dengan halaman pertama menggunkan Hyperlink
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tag Halaman Dasar 2</title>
+</head>
+<body>
+    <!-- Judul Paragraf pertama -->
+    <h1> Belajar Tag Dasar </h1>
+<p> <b>Ini adalah halaman kedua saya</b></p>
+</body>
+</html>
+```
+
