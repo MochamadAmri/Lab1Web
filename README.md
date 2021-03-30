@@ -24,13 +24,13 @@
 ## Membuat 2 paragraf dan atur paragraf dengan atribut ( Rata Kanan/ Rata Kiri/ Rata Tengah/ Rata Kanan & Kiri )
 ```
 <!-- Ini adalah paragraf pertama -->
-<p align="center">Kami sedang belajar \HTML dasar, pada matakuliah Pemrograman
+<p align="left">Kami sedang belajar \HTML dasar, pada matakuliah Pemrograman
     Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama
     yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
     tag-tag dasar HTML.</p>
 
 <!-- Ini adalah paragraf kedua -->
-<p align="right">Ini merupakan sebuah paragraf yang terdiri dari beberapa
+<p align="justify">Ini merupakan sebuah paragraf yang terdiri dari beberapa
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
     dengan menggunakan tag dasar html.</p>
  ```
@@ -49,3 +49,11 @@
 <p> <b> Dan untuk yang di browser nya akan seperti ini </b> </p>
 
 ![Langkah 3 1](https://user-images.githubusercontent.com/56380838/112937463-df51f180-9151-11eb-96fd-eaf43aba2c8f.png)
+# Langkah 4
+## Memformat teks dengan menggunakan format teks yang ada
+```
+<p align="left">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman
+    Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
+    yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
+    tag-tag dasar HTML.</p>
+```
