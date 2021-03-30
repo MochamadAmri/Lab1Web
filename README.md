@@ -62,3 +62,10 @@
 # Langkah 5
 ## Menyisipkan Gambar dan mengatur ukuran gambar. Sebelum menyisipkan gambar, file HTML yg sudah dibuat dijadikan satu bersama dengan gambar yg akan disisipkan.
 ![Langkah 5](https://user-images.githubusercontent.com/56380838/112939407-9e5bdc00-9155-11eb-94ef-3df07698a2e1.png)
+```
+<!-- sub judul paragraf -->
+<h3>Menambahkan Gambar</h3>
+<!-- menambahkan gambar pada dokumen -->
+<img src="UPB1.png" width="200" title="Logo Univeritas Pelita Bangsa">
+```
+
