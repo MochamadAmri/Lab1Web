@@ -43,3 +43,6 @@
 <!-- judul paragraf kedua -->
 <h2>Paragraf pada HTML</h2>
 ```
+![Langkah 3 1](https://user-images.githubusercontent.com/56380838/112936332-d5c78a00-914f-11eb-8849-f5c5db06a971.png)
+![Langkah 3 2](https://user-images.githubusercontent.com/56380838/112936341-d9f3a780-914f-11eb-9957-a2a4c657e2da.png)
+
