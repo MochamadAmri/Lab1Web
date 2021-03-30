@@ -113,7 +113,9 @@
 3. Kalau atribut `title` pada tag <img> fungsi nya untuk memberi judul pada gambar, sedangkan atribut `alt` pada tag <img> digunakan untuk memberi deskripsi pada gambar yg disisipkan
 4. Kalau menurut saya, agar gambar tersebut tetap proporsional, cantumkan hanya salah satu atribut saja (width saja atau height saja, namun tidak keduanya). Misal kita ingin menampilkan gambar dengan menetatpkan widht 500px, maka web browser akan menampilkan gambar dengan lebar 500px dan menghitung otomatis tinggi gambar tersebut agar gambar tetap proporsional
 5.
-`Nilai _blank akan membuka link/halaman di tab baru.
+```
+Nilai _blank akan membuka link/halaman di tab baru.
 Nilai _self akan membuka link/halaman di tab saat ini.
 Nilai _top membuka link/halaman dan membatalkan semua frame.
-Nilai _parent membuka link/halaman pada parent frame.`
+Nilai _parent membuka link/halaman pada parent frame.
+```
