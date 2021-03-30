@@ -34,7 +34,7 @@
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
     dengan menggunakan tag dasar html.</p>
  ```
- 
+ ![Langkah 2](https://user-images.githubusercontent.com/56380838/112937164-62267c80-9151-11eb-9174-f6772f1f37f1.png)
  # Langkah 3
  ## Menambahkan judul paragraf dengan menggunakan Tag Heading (H1, H2, H3, H4, H5, H6), Semakin besar angka Tag Heading semakin kecil ukuran huruf nya
  ```
