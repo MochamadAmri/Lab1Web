@@ -57,3 +57,8 @@
     yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
     tag-tag dasar HTML.</p>
 ```
+![Langkah 4](https://user-images.githubusercontent.com/56380838/112939131-22619400-9155-11eb-99d4-ec05d6b50e9a.png)
+![Langkah 4 1](https://user-images.githubusercontent.com/56380838/112939137-255c8480-9155-11eb-9597-594e2350517f.png)
+# Langkah 5
+## Menyisipkan Gambar dan mengatur ukuran gambar. Sebelum menyisipkan gambar, file HTML yg sudah dibuat dijadikan satu bersama dengan gambar yg akan disisipkan.
+
