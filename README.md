@@ -98,4 +98,22 @@
 </body>
 </html>
 ```
+![Langkah 7](https://user-images.githubusercontent.com/56380838/112941549-f811d580-9158-11eb-851f-2cee6c25909f.png)
+![Langkah 7 1](https://user-images.githubusercontent.com/56380838/112941558-fb0cc600-9158-11eb-9d93-0cefb5b91147.png)
 
+# Pertanyaan :
+1. Lakukan perubahan pada code sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+2. Apa perbedaan dari tag `<p>` dengan tag `<br>` berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai antribut tersebut?
+# Jawab :
+1. Ada eror ketika saya melakukan penulisan tag `<b>` tidak ditutup dnegan `</b>` maka tidak tulisan nya tidak tebal dan jadi seperti tulisan seperti biasa
+2. Berbeda, kalau tag `<P>` jarak pragraf nya tidak terlalu jauh, sedangkan tag `<br>` dia paragraf nya longkap 1 line / baris
+3. Kalau atribut `title` pada tag <img> fungsi nya untuk memberi judul pada gambar, sedangkan atribut `alt` pada tag <img> digunakan untuk memberi deskripsi pada gambar yg disisipkan
+4. Kalau menurut saya, agar gambar tersebut tetap proporsional, cantumkan hanya salah satu atribut saja (width saja atau height saja, namun tidak keduanya). Misal kita ingin menampilkan gambar dengan menetatpkan widht 500px, maka web browser akan menampilkan gambar dengan lebar 500px dan menghitung otomatis tinggi gambar tersebut agar gambar tetap proporsional
+5.
+`Nilai _blank akan membuka link/halaman di tab baru.
+Nilai _self akan membuka link/halaman di tab saat ini.
+Nilai _top membuka link/halaman dan membatalkan semua frame.
+Nilai _parent membuka link/halaman pada parent frame.`
