@@ -33,3 +33,13 @@
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
     dengan menggunakan tag dasar html.</p>
  ```
+ ![Langkah 2](https://user-images.githubusercontent.com/56380838/112935197-7f594c00-914d-11eb-8f13-b51da2226b37.png)
+ # Langkah 3
+ ## Menambahkan judul paragraf dengan menggunakan Tag Heading (H1, H2, H3, H4, H5, H6), Semakin besar angka Tag Heading semakin kecil ukuran huruf nya
+ ```
+ <!-- judul paragraf pertama -->
+<h1>Belajar Dasar HTML</h1>
+
+<!-- judul paragraf kedua -->
+<h2>Paragraf pada HTML</h2>
+```
