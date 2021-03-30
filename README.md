@@ -18,7 +18,8 @@
 </body>
 </html>
 ```
-![Langkah 1](https://user-images.githubusercontent.com/56380838/112934525-2fc65080-914c-11eb-8ca0-1686bfe84b5e.png)
+![Langkah 1](https://user-images.githubusercontent.com/56380838/112936937-edebd900-9150-11eb-8d4e-e118f7614ca3.png)
+
 # Langkah 2
 ## Membuat 2 paragraf dan atur paragraf dengan atribut ( Rata Kanan/ Rata Kiri/ Rata Tengah/ Rata Kanan & Kiri )
 ```
@@ -33,7 +34,7 @@
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
     dengan menggunakan tag dasar html.</p>
  ```
- ![Langkah 2](https://user-images.githubusercontent.com/56380838/112935197-7f594c00-914d-11eb-8f13-b51da2226b37.png)
+ 
  # Langkah 3
  ## Menambahkan judul paragraf dengan menggunakan Tag Heading (H1, H2, H3, H4, H5, H6), Semakin besar angka Tag Heading semakin kecil ukuran huruf nya
  ```
