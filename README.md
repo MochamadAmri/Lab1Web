@@ -68,4 +68,16 @@
 <!-- menambahkan gambar pada dokumen -->
 <img src="UPB1.png" width="200" title="Logo Univeritas Pelita Bangsa">
 ```
-
+![Langkah 5 1](https://user-images.githubusercontent.com/56380838/112939840-5f7a5600-9156-11eb-9a0f-cf7480ee1301.png)
+![Langkah 5 2](https://user-images.githubusercontent.com/56380838/112939846-62754680-9156-11eb-9967-222c7206d88c.png)
+# Langkah 6
+## Menambahkan Hyperlink
+```
+<!-- menambahkan link navigasi -->
+<nav>
+    <a href="lab1_tag_dasar.html">Dasar HTML</a>
+    <a href="lab1_halaman2.html">Halaman 2</a>
+    <a href="http://www.google.com">Halaman Web Eksternal Google</a>
+    </nav>
+    <hr>
+```
